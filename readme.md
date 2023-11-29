@@ -1,0 +1,1 @@
+- LLM agent built with Langchain, OpenAI and ChromaDB
