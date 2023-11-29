@@ -1,0 +1,6 @@
+langchain
+openai
+tiktoken
+langchain-experimental
+chromadb
+sentence-transformers

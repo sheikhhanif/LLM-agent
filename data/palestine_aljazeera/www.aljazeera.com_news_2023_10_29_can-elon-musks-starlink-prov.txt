@@ -1,0 +1,91 @@
+Can Elon Musk’s Starlink provide internet service to Gaza? | Israel-Palestine conflict News | Al Jazeera
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip linksSkip to Contentplay Live Show navigation menuNavigation menuNewsShow more news sectionsMiddle EastAfricaAsiaUS & CanadaLatin AmericaEuropeAsia PacificIsrael-Gaza warFeaturesEconomyOpinionVideoMoreShow more sectionsUkraine warCoronavirusClimate CrisisInvestigationsInteractivesIn PicturesScience & TechnologySportPodcastsplay Live Click here to searchsearchNavigation menucaret-leftIsrael-Palestine conflictLive updatesThe truce deal explainedPhotosHow can the truce be enforced?Live trackerWhat Palestinian symbols meanA simple guideThe truce: The view from GazaIf Gaza was your citycaret-rightEXPLAINERNews|Israel-Palestine conflictCan Elon Musk’s Starlink provide internet service to Gaza?While telecommunication services have been restored in Gaza, calls continue for Elon Musk’s Starlink internet to help.SpaceX founder and Tesla CEO Elon Musk speaks on a screen about Starlink, during the Mobile World Congress (MWC) in Barcelona, Spain [File: Nacho Doce/Reuters]By Priyanka ShankarPublished On 29 Oct 202329 Oct 2023As Gaza experienced a near-total communications blackout on Friday, a campaign began trending on social media platforms, calling on billionaire tycoon Elon Musk to power the bombarded enclave with Starlink internet.
+The satellite internet venture operated by SpaceX is comprised of a “constellation of thousands of satellites” that orbit very close to Earth at about 550km (340 miles) from the surface, making it easier to provide internet services in rural and isolated regions of the world where the internet terminals and cables aren’t strong.Keep reading list of 3 itemslist 1 of 3Netanyahu says war entering ‘second stage’ as Israeli troops push into Gazalist 2 of 3Zelenskyy adviser claims Elon Musk allowed Russians to hit Ukrainian citieslist 3 of 3Internet, phone services return to Gaza after communications blackoutend of list
+SpaceX CEO Musk initially responded to a post calling for Starlink support for Gaza, saying that it wasn’t clear who had authority for ground links in the besieged enclave and that “no terminals from Gaza have attempted to communicate with our constellation”.
+After the calls for Musk to support communication in Gaza through Starlink gained momentum, the billionare businessman announced that “Starlink will support connectivity to internationally recognized aid organizations in Gaza.”
+Can Starlink work in Gaza?
+While Starlink’s tagline is the promise of “connectivity where you least expect it”, Marc Owen Jones, associate professor of Middle East Studies at Hamad Bin Khalifa University based in Doha, is uncertain if it can work in Gaza.
+“We’ve seen 500,000 posts on X saying Starlink should power Gaza. But people don’t actually appreciate that ‘Starlink for Gaza’ is an impossibility,” he told Al Jazeera.
+“Starlink terminals or dishes in Gaza would be difficult to smuggle in and distribute at scale. The Israeli government is unlikely to allow legal imports of it,” Owen Jones told Al Jazeera.
+“But let’s say Starlink got in. How will it be powered? There is no fuel in Gaza right now.”
+The Gaza Strip has been under an Israeli blockade since 2007. Israel controls Gaza’s airspace and territorial waters, and regulates all the goods and services that enter and leave through two of Gaza’s three border crossing points. The third crossing is controlled by Egypt.
+Owen Jones also noted that the Starlink network relies on ground stations that would need approval within Gaza, which he says is unlikely to get under the current situation.
+“Owning a Starlink terminal with two-way transmission could endanger Gazans if detected by Israeli authorities,” he said, adding that the internet provision would likely meet opposition from the United States and Israel administrations.
+(Al Jazeera)
+On Saturday, Israel’s Communications Minister Shlomo Karhi lashed out at Musk on the social media platform X for considering provision of Starlink to aid organisations in Gaza. Karhi said Israel will cut off any ties with Starlink.
+“HAMAS will use it for terrorist activities. There is no doubt about it, we know it, and Musk knows it,” Karhi said.
+Musk responded by saying that his company is “not so naive” and would do “a security check with both the US and Israeli governments before turning on even a single terminal”.
+Has Starlink been used in other warzones?
+This isn’t the first time Musk has been asked to provide Starlink internet services in warzones.
+In February 2022, after Russia invaded Ukraine, Musk instantly ensured Starlink terminals would be made available to help people and the army in Ukraine after internet services were disrupted due to the war.
+But a year into the conflict, concerns over Starlink aiding Russia’s military have been raised.
+In September, Musk faced criticism from leaders in Ukraine for refusing to have Starlink services in Russian-annexed Crimea.
+On the social media platform X, Ukrainian presidential adviser Mykhailo Podolyak also claimed that Starlink allowed Russian drones to hit Ukrainian cities.
+“Sometimes a mistake is much more than just a mistake. By not allowing Ukrainian drones to destroy part of the Russian military (!) fleet via Starlink interference, Elon Musk allowed this fleet to fire Kalibr missiles at Ukrainian cities,” Podolyak said on X.
+Musk replied by saying he had no choice but to reject an emergency request from Ukraine “to activate Starlink all the way to Sevastopol” – a response that has been praised by Russian President Vladimir Putin.
+Meanwhile, despite issues over its use in Crimea, Starlink is still in use on all other fronts in Ukraine.
+What are the other means of communication?
+After a communications blackout that lasted for almost 36 hours, the Paltel Group, which provides communications services in Gaza, said that telecommunication services are “gradually being restored” in the Gaza Strip.
+But with Musk’s Starlink proposal for Gaza only seeking to cater to international aid organisations, efforts continue across the globe to ensure that ordinary civilians in Gaza are able to continue communicating with each other in case telecommunication services are disrupted again.
+Egypt-based journalist and writer Mirna El Helbawi began a social media campaign of collecting eSims from around the world to help people in Gaza.
+An eSim card allows users to activate a mobile network’s cellular plans without using a physical SIM card.
+“Until we fix the Starlink issue with Egyptian and Palestinian red crescent; If anyone in Gaza, needs an European E-sim to activate their internet connection, let me know,” Helbawi said.
+
+Until we fix the starlink issue with Egyptian and Palestinian red crescent; If anyone in Gaza, needs an European E-sim to activate their internet connection, let me know. I have my european followers on instagram who are willing to help. pic.twitter.com/VUn9nryhNf
+— Mirna El Helbawi (@Mirna_elhelbawi) October 28, 2023
+
+Since then, El Helbawi expressed on X that she has managed to send free eSims to several journalists, people, and a few doctors in Gaza.
+She added that she has now teamed up with telecommunications startup Simly to ensure “everyone gets stable and consistent internet access there [in Gaza]”.
+Some social media users who have sent eSims to help people in Gaza suggested using applications like Nomad to purchase eSim cards.
+After choosing the “Middle East” mobile data plan on the app and paying for the service provider of choice, people receive a QR code.
+The Nomad app has been used to send eSims to people in Gaza. People can choose the network of the SIM card they wish to send [Courtesy of someone who sent a SIM card to people in Gaza]
+This code can then be sent to civilians in need in Gaza through organisations or people on the ground who are helping to distribute eSims.
+
+I sent mine to @BasharChaheen btw https://t.co/RlXlpUnlWq
+— Hashashin (@HashashinTag) October 28, 2023
+
+In addition to efforts with eSims and SIM cards, the Qatari telecommunications company Ooredoo Group has also been helping people in the Gaza Strip communicate since 2017 with the launch of Wataniya Mobile.
+Can Egypt play a bigger role?
+Since the Palestinian armed group Hamas launched an attack on Israel on October 7, Egypt’s role in Gaza has gained importance.
+Cairo controls the Rafah border crossing, which has proved as a lifeline for the people in Gaza since last week, when aid trucks were allowed to enter the territory through the crossing. More than 8,000 Palestinians, mostly women and children, have been killed in Israeli bombings while a total siege means there’s not enough food, fuel or water to meet basic needs.
+Some on social media have also questioned whether Musk’s Starlink could set up terminals at the Rafah crossing so that internet services in Gaza could be supported.
+But Owen Jones told Al Jazeera that even if they [Egypt] allowed it or were allowed to set up Starlink terminals, “it would have limited efficacy”.
+Meanwhile, according to local media reports in Egypt, Vodafone Egypt has announced that mobile communication stations have been prepared to be sent to the border between Egypt and Gaza in order to boost internet and mobile phone networks in Gaza.
+A public relations stunt for Musk?
+While international aid organisations have welcomed Musk’s proposal to help them with Starlink, questions remain over how it will be installed in an enclave that continues to be bombarded relentlessly and remains under a blockade.
+“We could really benefit from Starlink to try getting in touch with our staff and health facilities in Gaza. How can we make it happen?” World Health Organization Director-General Tedros Adhanom Ghebreyesus asked Musk on X.
+SpaceX and Musk haven’t yet responded to how installations for aid organisations will begin working.
+According to Owen Jones, Musk is wading into uncharted territory.
+“I don’t think he gets the dominance of Israel’s control over the area, the dangers Starlink might put Gazans in,” Owen Jones said. “He is doing this to simply look good in light of the campaign for Starlink to be given to Gazans.”
+ 
+
+
+
+
+ 
+
+
+ 
+Source: Al Jazeeraaj-logoaj-logoaj-logoAboutShow moreAbout UsCode of EthicsTerms and ConditionsEU/EEA Regulatory NoticePrivacy PolicyCookie PolicyCookie PreferencesSitemapCommunity GuidelinesWork for usHR QualityConnectShow moreContact UsAdvertise with usAppsNewslettersChannel FinderTV SchedulePodcastsSubmit a TipOur ChannelsShow moreAl Jazeera ArabicAl Jazeera EnglishAl Jazeera Investigative UnitAl Jazeera MubasherAl Jazeera DocumentaryAl Jazeera BalkansAJ+Our NetworkShow moreAl Jazeera Centre for StudiesAl Jazeera Media InstituteLearn ArabicAl Jazeera Centre for Public Liberties & Human RightsAl Jazeera ForumAl Jazeera Hotel PartnersFollow Al Jazeera English:facebooktwitteryoutubeinstagram-colored-outlinerss© 2023 Al Jazeera Media Network
+

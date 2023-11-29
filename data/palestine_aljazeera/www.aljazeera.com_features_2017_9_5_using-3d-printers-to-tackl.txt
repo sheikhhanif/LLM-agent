@@ -1,0 +1,69 @@
+Using 3D printers to tackle Gaza’s medical shortages | Features | Al Jazeera
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip linksSkip to Contentplay Live Show navigation menuNavigation menuNewsShow more news sectionsMiddle EastAfricaAsiaUS & CanadaLatin AmericaEuropeAsia PacificIsrael-Gaza warFeaturesEconomyOpinionVideoMoreShow more sectionsUkraine warCoronavirusClimate CrisisInvestigationsInteractivesIn PicturesScience & TechnologySportPodcastsplay Live Click here to searchsearchFeaturesUsing 3D printers to tackle Gaza’s medical shortagesPalestinian team is using 3D printers to build stethoscopes and tourniquets to help struggling hospitals.Shaker Shaheen, left, and Mahmoud Alalawi work on a 3D printer in Gaza City [Mersiha Gadzo/Al Jazeera]By Mersiha GadzoPublished On 5 Sep 20175 Sep 2017Gaza City – The stethoscope, a staple device in modern medicine, is a luxury item in Gaza.
+At Gaza’s largest hospital, al-Shifa, there are only one or two stethoscopes in each department; doctors left without one resort to pressing their ears against patients’ chests to diagnose an illness.
+“That would be the best-case scenario,” Canadian doctor Tarek Loubani told Al Jazeera. “If someone’s full of blood, most doctors aren’t going to put their ears to the chest. So, doctors are making decisions without that piece of information.”
+Loubani and three of his peers are working to change that. As part of the Glia team, their goal is to mass-manufacture low-cost, high-quality medical devices for Gaza using 3D printing. They recently received their first batch of stethoscopes.
+
+Israel bans 3D printers in Gaza, along with other equipment considered to be ‘dual-use’ – items that Israel claims could be used for military activities [Mersiha Gadzo/Al Jazeera]
+
+In their office in the centre of Gaza City, a small square piece of the 3D printer moves back and forth across the plate, refining two long pieces. In about two hours, it will finish printing all the pieces to form the tested and approved 3D printed stethoscope – the first of its kind in the Gaza Strip.
+“It looks like a toy, but the quality is just as good as the leading brands,” Mohammed Abu Matar, 31, told Al Jazeera, as he held up one of their finished stethoscopes. The item costs only $3, compared with the industry-leading Littmann Cardiology III, which sells for around $200.
+It is a huge feat for the Gaza Strip, which suffers from a shortage of much-needed medical equipment. Under the decade-long Israeli-Egyptian blockade, a wide range of medical items are banned from entering Gaza without special coordination due to Israel’s “dual-use” concerns – namely, that the items could also be used for military purposes.
+Affordability is another obstacle. A $300 stethoscope is roughly equivalent to a doctor’s monthly salary in Gaza.
+
+‘It looks like a toy, but the quality is just as good as the leading brands,’ says Mohammed Abu Matar [Mersiha Gadzo/Al Jazeera]
+
+Loubani first thought of printing stethoscopes after spending some time operating in al-Shifa’s emergency room.
+“During one of the wars in 2012, it became really obvious that you can’t provide proper care to patients with the equipment that’s available here,” Loubani said.
+Initially, each time that Loubani returned as a visiting doctor, he would bring in bags full of books and equipment for the doctors in Gaza.
+“But those paths get disrupted really easily,” he said. “I can no longer travel through Egypt, because I was in jail there. On my way into Israel, they searched me. Even very simple medical equipment isn’t allowed in … With huge disruption in trade routes, it became obvious that we have to start making things in Gaza if we’re ever to be able to have a reliable supply of medical equipment.”
+Abu Matar, a telecommunications graduate, also arrived at the same realisation after years of making his own devices, including negative ion and ozone generators. He always had the recurring problem of missing pieces that were unavailable in Gaza.
+
+‘I started thinking of how to make a machine that can make those missing pieces,’ Abu Matar says [Mersiha Gadzo/Al Jazeera] 
+
+“I started thinking of how to make a machine that can make those missing pieces,” Abu Matar said.
+The 3D printer – banned from Gaza – was the obvious solution to their problems. Matar scraped together all the spare parts and, by following open source designs online, he built a 3D printer himself. He now runs the first 3D printing business in Gaza, called Tashkeel 3D.
+“We saw the designs [of 3D printers] that other people had spent a lot of time making, and used those and modified them and adopted them for our own uses,” Matar said.
+To circumvent the blockade and high prices, they relied on alternatives. Since the plastic filament used to print the items is too expensive to import, they created it themselves by experimenting with plastic pellets until they found the right mixture to create their own filament, using a self-made machine.
+
+READ MORE: Gaza’s women of steel
+
+Once Matar had assembled his own 3D printer, he started printing the unavailable spare parts to assemble more 3D printers in the Gaza Strip.
+“The stethoscope works very well; it’s a suitable solution, especially for us here in Gaza,” Ayman al-Sahabani, the head of al-Shifa’s emergency department, told Al Jazeera. “We need stethoscopes all the time to deal with patients, but it’s not available because it’s expensive.”
+
+
+
+Having finalised the stethoscope, clinical testing is now under way for their printed tourniquet and pulse oximeter, which shows how much oxygen is circulating in a body.
+In Canadian hospitals, each bed would have its own pulse oximeter, but at al-Shifa’s emergency department, there are only three pulse oximeters for 20 beds, Loubani said. To determine the level of oxygen circulating in a body, doctors in Gaza often have to look at the patient and ask themselves: “How blue is this person?”
+“What’s happening here in Gaza is a real catastrophe,” Sahabani said. “It’s difficult to speak about this all the time because it’s very painful for us. It’s very painful to speak about our patients, about the suffering, about our medical staff.”
+Among the equipment considered as dual-use and restricted from entering the Gaza Strip are scanning machines. The few MRIs and CT scanners that al-Shifa has are at a risk of breaking down, since they operate for 24 hours instead of the recommended maximum of eight, due to a huge number of patients, al-Sahabani explained. Since all of the machines are missing spare parts, they do not work as they normally should.
+According to a 2016 World Health Organization report, nearly 50 percent of Gaza’s medical equipment is outdated, with the average wait for spare parts lasting about six months.
+
+The Glia team includes, from left to right, Shaker Shaheen, Mahmoud Alalawi, Tarek Loubani and Mohammed Abu Matar [Mersiha Gadzo/Al Jazeera]
+
+The Glia team hopes to fill this gap by spreading 3D printing culture throughout Gaza. They have already taught a class at the Khan Younis College of Science and Technology on how to assemble 3D printers, and they plan to introduce 3D printing into the K-12 curriculum.
+“You have a very special problem in Gaza; a rocket could come through this window and this place is gone. If that happens, what’s supposed to happen with this work?” Loubani asked. “So really, you need more than one place [that knows how to 3D print] in a place like Gaza, to know you can keep the culture going.
+“We think that four, five places would be enough to keep [the culture] going no matter what happens here, so that if we all get killed in the next war, there’s two or three more places that can keep going.”
+Source: Al Jazeeraaj-logoaj-logoaj-logoAboutShow moreAbout UsCode of EthicsTerms and ConditionsEU/EEA Regulatory NoticePrivacy PolicyCookie PolicyCookie PreferencesSitemapCommunity GuidelinesWork for usHR QualityConnectShow moreContact UsAdvertise with usAppsNewslettersChannel FinderTV SchedulePodcastsSubmit a TipOur ChannelsShow moreAl Jazeera ArabicAl Jazeera EnglishAl Jazeera Investigative UnitAl Jazeera MubasherAl Jazeera DocumentaryAl Jazeera BalkansAJ+Our NetworkShow moreAl Jazeera Centre for StudiesAl Jazeera Media InstituteLearn ArabicAl Jazeera Centre for Public Liberties & Human RightsAl Jazeera ForumAl Jazeera Hotel PartnersFollow Al Jazeera English:facebooktwitteryoutubeinstagram-colored-outlinerss© 2023 Al Jazeera Media Network
+
